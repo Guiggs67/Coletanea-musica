@@ -12,9 +12,9 @@ namespace Atividade_N2
 {
     public partial class Form1 : Form
     {
-        string[] musica = new string[100];
-        string[] artista = new string[100];
-        string[] album = new string[100];
+        string[] musica = new string[200];
+        string[] artista = new string[200];
+        string[] album = new string[200];
         
 
         public Form1()
